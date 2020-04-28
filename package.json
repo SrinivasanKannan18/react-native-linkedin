@@ -31,22 +31,23 @@
   "dependencies": {
     "query-string": "6.11.1",
     "ramda": "0.27.0",
-    "uuid": "7.0.2",
-    "react-native-webview": "^7.5.1"
+    "react-native-get-random-values": "^1.4.0",
+    "react-native-webview": "^7.5.1",
+    "uuid": "7.0.2"
   },
   "devDependencies": {
     "@types/jest": "25.1.4",
+    "@types/ramda": "^0.27.0",
     "@types/react": "16.9.25",
     "@types/react-native": "0.61.23",
     "@types/uuid": "7.0.2",
-    "@types/ramda": "^0.27.0",
     "babel-jest": "25.1.0",
-    "babel-preset-react-native": "^4.0.1",
     "babel-preset-expo": "^8.0.0",
+    "babel-preset-react-native": "^4.0.1",
     "expo": "^36.0.2",
     "husky": "4.2.3",
-    "json": "^9.0.6",
     "jest-expo": "^35.0.0",
+    "json": "^9.0.6",
     "react": "16.8.3",
     "react-native": "https://github.com/expo/react-native/archive/sdk-35.0.0.tar.gz",
     "react-test-renderer": "16.13.1",
@@ -76,7 +77,6 @@
     ]
   },
   "husky": {
-    "hooks": {
-    }
+    "hooks": {}
   }
 }
