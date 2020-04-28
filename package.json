@@ -48,7 +48,7 @@
     "json": "^9.0.6",
     "jest-expo": "^35.0.0",
     "react": "16.8.3",
-    "react-native": "https://github.com/expo/react-native/archive/sdk-37.0.0.tar.gz",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-35.0.0.tar.gz",
     "react-test-renderer": "16.13.1",
     "tslint": "6.1.0",
     "tslint-config-prettier": "1.18.0",
